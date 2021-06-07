@@ -28,3 +28,24 @@ public class connectBD {
     public ResultSet stat;
     public void connect(){
         
+      
+        try {
+            Class.forName(driver);
+            
+            co=DriverManager.getConnection(url, user,passwd);
+            
+            st=co.createStatement();
+        } catch (Exception ex) {
+            Logger.getLogger(connectBD.class.getName()).log(Level.SEVERE, null, ex);
+        
+        
+        JOptionPane.showMessageDialog(null, "erreur connection");
+        }
+        
+        
+        }
+        
+        }
+        
+    
+    
