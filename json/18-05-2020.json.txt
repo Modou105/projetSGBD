@@ -1,0 +1,10 @@
+{
+	"NbTest": 1172, 
+	"Nb nouveaux Cas":64, 
+	"Nb Cas contacts":59, 
+	"Nb Cas Communautaires":05,
+	"NbGuéris":103,
+	"Nb Décès":1,
+	"NomFichierSource":"COMMUNIQUE 78 DU 18 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

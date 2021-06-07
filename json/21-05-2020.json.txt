@@ -1,0 +1,10 @@
+{
+	"NbTest":1215, 
+	"Nb nouveaux Cas":98, 
+	"Nb Cas contacts":92, 
+	"Nb Cas Communautaires":06,
+	"NbGuéris":65,
+	"Nb Décès":0,
+	"NomFichierSource":"COMMUNIQUE 81 DU 21 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

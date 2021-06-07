@@ -1,0 +1,10 @@
+{
+	"NbTest": 816, 
+	"Nb nouveaux Cas":51, 
+	"Nb Cas contacts":47, 
+	"Nb Cas Communautaires":04,
+	"NbGuéris":24,
+	"Nb Décès":0,
+	"NomFichierSource":"COMMUNIQUE 77 DU 17 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

@@ -1,0 +1,10 @@
+{
+	"NbTest":930 , 
+	"Nb nouveaux Cas":73, 
+	"Nb Cas contacts":68, 
+	"Nb Cas Communautaires":05,
+	"NbGuéris":57,
+	"Nb Décès":04,
+	"NomFichierSource":"COMMUNIQUE 79 DU 19 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

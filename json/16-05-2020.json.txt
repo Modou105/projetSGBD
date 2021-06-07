@@ -1,0 +1,10 @@
+{
+"NbTest":989 , 
+	"Nb nouveaux Cas":119, 
+	"Nb Cas contacts":108, 
+	"Nb Cas Communautaires":11,
+	"NbGuéris":59,
+	"Nb Décès":,
+	"NomFichierSource":"COMMUNIQUE 76 DU 16 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

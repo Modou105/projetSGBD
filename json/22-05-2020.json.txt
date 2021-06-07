@@ -1,0 +1,10 @@
+{
+	"NbTest":1199, 
+	"Nb nouveaux Cas":97, 
+	"Nb Cas contacts":83, 
+	"Nb Cas Communautaires":14,
+	"NbGuéris":60,
+	"Nb Décès":03,
+	"NomFichierSource":"COMMUNIQUE 82 DU 22 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}
