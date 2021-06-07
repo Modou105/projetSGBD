@@ -90,20 +90,7 @@ public class Traitementcommande {
            String reqt = " SELECT * FROM  localites ";
            
            rs=cb.st.executeQuery(reqt);
-           
-           /*    public void displaycl (){
-        
-          ConnectBD co = new ConnectBD ();
-        co.connect();
-        String  req  = "   Select * from commande ";
-        
-        
-        //execution requette
-             try{
-                
-        rs = co.st.executeQuery(req);
-           
-         */
+          
           
            
        } catch (SQLException ex) {
