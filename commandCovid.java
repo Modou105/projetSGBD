@@ -14,10 +14,6 @@ import javax.swing.JOptionPane;
 
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author HP
- */
 public class commandCovid extends javax.swing.JFrame {
 
     /**
