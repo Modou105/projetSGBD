@@ -11,10 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author HP
- */
+
 public class Traitementcommande {
    public ResultSet rs = null;
    
