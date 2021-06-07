@@ -1,0 +1,11 @@
+{
+	"NbTest": 934, 
+	"Nb nouveaux Cas":49, 
+	"Nb Cas Importés":02,
+	"Nb Cas contacts":16, 
+	"Nb Cas Communautaires":16,
+	"NbGuéris":105,
+	"Nb Décès":1,
+	"NomFichierSource":"COMMUNIQUE 83 DU 23 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

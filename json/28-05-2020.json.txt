@@ -1,0 +1,10 @@
+{
+	"NbTest": 991, 
+	"Nb nouveaux Cas":95, 
+        "Nb Cas contacts":86, 
+	"Nb Cas Communautaires":09,
+	"NbGuéris":100,
+	"Nb Décès":01,
+	"NomFichierSource":"COMMUNIQUE 88 DU 28 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

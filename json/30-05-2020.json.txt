@@ -1,0 +1,10 @@
+{
+	"NbTest": 1370, 
+	"Nb nouveaux Cas":106, 
+	"Nb Cas contacts":94, 
+	"Nb Cas Communautaires":12,
+	"NbGuéris":23,
+	"Nb Décès":01,
+	"NomFichierSource":"COMMUNIQUE 90 DU 30 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

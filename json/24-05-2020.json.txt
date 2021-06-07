@@ -1,0 +1,11 @@
+{
+	"NbTest": 889, 
+	"Nb nouveaux Cas":71, 
+	"Nb Cas contacts":66, 
+	"Nb Cas Importé":1,
+	"Nb Cas Communautaires":4,
+	"NbGuéris":40,
+	"Nb Décès":01,
+	"NomFichierSource":"communique´ du dimanche 24 Mai 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

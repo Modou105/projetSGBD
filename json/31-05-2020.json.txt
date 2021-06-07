@@ -1,0 +1,10 @@
+{
+	"NbTest": 1024, 
+	"Nb nouveaux Cas":110, 
+	"Nb Cas contacts":98, 
+	"Nb Cas Communautaires":12,
+	"NbGuéris":40,
+	"Nb Décès":0,
+	"NomFichierSource":"COMMUNIQUE 91 DU 31 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

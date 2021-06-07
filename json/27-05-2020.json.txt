@@ -1,0 +1,10 @@
+{
+	"NbTest": 961, 
+	"Nb nouveaux Cas":92, 
+	"Nb Cas contacts":80, 
+	"Nb Cas Communautaires":12,
+	"NbGuéris":21,
+	"Nb Décès":02,
+	"NomFichierSource":"COMMUNIQUE 87 DU 27 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

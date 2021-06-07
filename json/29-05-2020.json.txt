@@ -1,0 +1,11 @@
+{
+	"NbTest": 1236, 
+	"Nb nouveaux Cas":81, 
+	"Nb Cas Importés":02,
+	"Nb Cas contacts":66, 
+	"Nb Cas Communautaires":13,
+	"NbGuéris":52,
+	"Nb Décès":02,
+	"NomFichierSource":"COMMUNIQUE 89 DU 29 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

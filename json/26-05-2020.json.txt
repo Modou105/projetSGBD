@@ -1,0 +1,10 @@
+{
+	"NbTest":551, 
+	"Nb nouveaux Cas":31, 
+	"Nb Cas contacts":28, 
+	"Nb Cas Communautaires":03,
+	"NbGuéris":50,
+	"Nb Décès":1,
+	"NomFichierSource":"COMMUNIQUE 86 DU 26 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}

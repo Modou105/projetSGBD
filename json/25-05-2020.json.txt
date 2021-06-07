@@ -1,0 +1,10 @@
+{
+	"NbTest": 1091, 
+	"Nb nouveaux Cas":83, 
+	"Nb Cas contacts":79, 
+	"Nb Cas Communautaires":04,
+	"NbGuéris":59,
+	"Nb Décès":0,
+	"NomFichierSource":"COMMUNIQUE 85 DU 25 MAI 2020",
+	"DateHeureExtraction":"07-04-2021"
+}
